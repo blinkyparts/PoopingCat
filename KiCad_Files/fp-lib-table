@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Binary_Kitchen)(type KiCad)(uri ${KIPRJMOD}/Binary_Kitchen.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "blinkyparts")(type "KiCad")(uri "${KIPRJMOD}/blinkyparts.pretty")(options "")(descr ""))
 )
