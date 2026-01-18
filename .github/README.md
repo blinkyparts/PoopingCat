@@ -1,5 +1,14 @@
 # Pooping Cat
 
+> [!NOTE]  
+> Dieses GitHub-Repository wird **automatisch gespiegelt**.
+>
+> **Hauptrepository:**  
+> https://codeberg.org/blinkyparts/PoopingCat
+>
+> Entwicklung, Issues und Pull Requests bitte **ausschließlich auf Codeberg**.
+
+
 What are you staring at? This pooping cat will stare back! The eyes are glowing in all colours of the rainbow due to RGB-LEDs on the back. The soldering kit is very simple and easy to assamble.
 
 <img src="images/front.jpg" width=300px alt="Rainbow Pooping Cat"> <img src="images/back.jpg" width=300px alt="Rainbow Pooping Cat">
