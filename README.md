@@ -26,7 +26,7 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 ### Copyright and Authorship
 
 - Board: [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed) - blinkyparts GmbH
-- Unicorn SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [Pooping Cat by Denis Sazhin from the Noun Project](https://thenounproject.com/icon/pooping-cat-601648/) (We've bought a licence, you should honor the artist work too!)
+- Cat SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [Pooping Cat by Denis Sazhin from the Noun Project](https://thenounproject.com/icon/pooping-cat-601648/) (We've bought a licence, you should honor the artist work too!)
 
 ### Buy Soldering Kits
 If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/de/Katze-in-der-Box-Wunderbar-einfacher-Bausatz-zum-loeten-und-lieben/blink236842)
